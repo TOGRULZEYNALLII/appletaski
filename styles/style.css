@@ -3,6 +3,7 @@
   padding-top: 7px;
   box-sizing: border-box;
   list-style-type: none;
+  font-family: "Roboto", sans-serif;
 }
 
 #main {
@@ -56,6 +57,7 @@
   display: flex;
   align-items: center;
   height: 100px;
+  left: 200px;
   gap: 10px;
 }
 
@@ -66,4 +68,13 @@
 
 .h1 {
   color: rgb(255, 85, 0);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-1 {
+  display: flex;
 }/*# sourceMappingURL=style.css.map */
